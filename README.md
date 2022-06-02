@@ -12,8 +12,8 @@
         <a href="https://www.linkedin.com/in/sachin-gupta-282a57220/"><img alt="linkedin" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
                         </a>
-                        <a href="https://twitter.com/saguptaji1998"><img alt="twitter" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
+<!--                         <a href="https://twitter.com/saguptaji1998"><img alt="twitter" width="10%" style="padding:5px"
+                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a> -->
 
        
 </p>
