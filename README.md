@@ -52,7 +52,7 @@
                 alt="Guptaji03" /></p>
 
 - ### 📈 GitHub Activity:
-  <a href="https://github.com/Guptaji03/github-readme-activity-graph"><img alt="Guptaji03's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Guptaji03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <!-- <a href="https://github.com/Guptaji03/github-readme-activity-graph"><img alt="Guptaji03's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Guptaji03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
   
 
 
